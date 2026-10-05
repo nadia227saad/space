@@ -1,0 +1,84 @@
+body{
+    height: 2500px;
+    background-image: url(../images/dow10.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position:center;
+}
+.div1{
+    height: 1000px;
+    width: 750px;
+    background-color:rgba(15,23,42,0.7);
+    margin: auto;
+    text-align: center;
+}
+.title1{
+    background-color: #0a1128;
+    color: white;
+}
+.p1{
+    background-color: rgba(18, 31, 52, 0.7);
+    color: #E2E8F0;
+}
+.p1:hover{
+    background-color: rgba(124, 58, 237, 0.25);
+    color: #FFFFFF;
+}
+img{
+    width: 180px;
+    height:180px;
+    border-radius: 50%;
+}
+.first{
+    margin-right: 100px;
+}
+.last{
+    margin-left: 100px;
+}
+.title2{
+    background-color: #0a1128;
+    color: white;
+    border: #0a1128 solid 10px;
+}
+li{
+    color: white;
+    text-align: left;
+    font-size: 20px;
+}
+li:hover{
+    background-color: rgba(140, 50, 95, 0.6);
+}
+.p1{
+    background-color: rgba(11, 23, 44, 0.7);
+    color: #E2E8F0;
+    font-size: 20px;
+    text-align: left;
+}
+.p1:hover{
+     background-color: rgba(140, 50, 95, 0.6);
+     color: #FFFFFF;
+}
+.div2{
+    height: 200px;
+    width: 750px;
+    background-color:rgba(15,23,42,0.7);
+    margin: auto;
+    text-align: center;
+}
+input{
+height: 25px;
+width: 200px;
+font-size: 15px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    background-color: rgba(11, 23, 44, 0.7);
+    color: white;
+}
+button:hover{
+     background-color: rgba(140, 50, 95, 0.6);
+}
+
